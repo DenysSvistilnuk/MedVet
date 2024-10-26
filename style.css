@@ -98,5 +98,5 @@ a{
     flex-wrap: wrap;
 }
 .services-item{
-    
+    display: flex;
 }
